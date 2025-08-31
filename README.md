@@ -8,6 +8,8 @@ The dashboard is built using the provided datasets: shapefiles for Uganda distri
 ## Methods
 This project uses descriptive analysis,which provides a useful overview of Karamoja's food monitoring.
 ## Results
+![diagram] (<img width="996" height="672" alt="Screenshot 2025-09-01 1 09 58 AM" src="https://github.com/user-attachments/assets/b79b651d-3dcd-4f85-8b9e-c9a5ba77a49c" />
+
 ## Conclusion
 Analysis reveals low overall yields, far below national potentials, due to droughts and pests.
 
@@ -23,4 +25,12 @@ Crop Diversification
 Monitoring Enhancements
 ## For more Information
 Send email to the email provided:
-charitynjeri@student.moringaschool.com
+
+charity.njeri@student.moringaschool.com
+
+joan.kimutai@student.moringaschool.com
+
+samson.jomo@student.moringaschool.com
+
+francois.wendo@student.moringaschool.com
+
